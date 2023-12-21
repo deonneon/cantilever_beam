@@ -4,7 +4,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import mean_squared_error, r2_score
 from keras.models import Sequential
-from keras.models import Sequential
 from keras.layers import Dense
 import tensorflow as tf
 
